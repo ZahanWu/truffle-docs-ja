@@ -11,7 +11,3 @@ Solidityの開発フレームワーク"Truffle"の日本語版ドキュメント
 <br>
 <br>
 
-Translated by [@ZahanWu](https://twitter.com/ZahanWu)
-<br>
-ドキュメントに関する報告や、その他お仕事等に関するご連絡は[Twitter](https://twitter.com/ZahanWu)のDMまでお願いします。
-
